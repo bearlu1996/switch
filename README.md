@@ -25,6 +25,7 @@ How to use the code?
 5. In the console of eclipse, copy the switch behaviours we get in the last part into the console line by line
 Example format:
 Activity1, Activity2
+
 Activity3, Activity4
 ......
 6. When you finish, type "finish" in the console and press enter
