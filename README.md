@@ -12,7 +12,7 @@ How to use the code?
 5. Replace MiningParameters.java in org.processmining.plugins.InductiveMiner.mining
 6. Replace CutFinderIM.java in org.processmining.plugins.InductiveMiner.mining.cuts.IM
 7. Run ProM and use "Mine Process Tree with Inductive Miner" to get the process tree, select IM or IMf as the discovery algorithm, export the process tree as a file
-8. Take a look at the console in eclipse, all the switch behaviours detected will appear under the "Switch behaviours after model repaire" line
+8. Take a look at the console in eclipse, all the switch behaviours detected will appear under the "Switch behaviours after model repair" line
 9. Copy all the switch behaviours to a text file
 -----------------------------------------------------------------------
 
