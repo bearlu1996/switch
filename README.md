@@ -22,12 +22,11 @@ How to use the code?
 2. Replace ProcessTree2Petrinet.java in org.processmining.processtree.conversion
 3. Run ProM, import the process tree file we get when discovering switch process trees
 4. Run the "Convert Process Tree to Petri Net 2"
-5. In the console of eclipse, copy the switch behaviours we get in the last part into the console line by line
-Example format:
-Activity1, Activity2
-
-Activity3, Activity4
-......
+5. In the console of eclipse, copy the switch behaviours we get in the last part into the console line by line<br/>
+Example format:<br/>
+Activity1, Activity2<br/>
+Activity3, Activity4<br/>
+......<br/>
 6. When you finish, type "finish" in the console and press enter
 7. You will see the petri-net in ProM
 
