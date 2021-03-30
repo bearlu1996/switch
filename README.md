@@ -1,5 +1,9 @@
 # A Novel Approach to Discover Switch Behaviours in Process Mining
 
+Code, data and evaluation results for paper:
+**Lu Y., Chen Q., Poon S. (2021) A Novel Approach to Discover Switch Behaviours in Process Mining. In: Leemans S., Leopold H. (eds) Process Mining Workshops. ICPM 2020. Lecture Notes in Business Information Processing, vol 406. Springer, Cham. https://doi.org/10.1007/978-3-030-72693-5_5**
+
+
 **The code files are adapted from the "ProcessTree" package and "InductiveMinerDeprecated" package directly in the ProM framework
 
 How to use the code?
